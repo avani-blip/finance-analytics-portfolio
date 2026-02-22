@@ -1,5 +1,5 @@
 -- Objective: Identify high-probability winnable disputes to prioritize manual review
--- Impact: Supports a 15% reduction in net losses by automating low-value concessions
+-- Impact: Supports a reduction in net losses by automating low-value concessions
 
 WITH DisputeSummary AS (
     SELECT 
