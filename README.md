@@ -1,7 +1,7 @@
 # Financial Analytics & Process Optimization Portfolio
 
 ## Professional Profile
-I am a final-year student in Toronto completing my degree in **April 2026** with a focus on **Computer Engineering** and **Finance**. My goal is to bridge the gap between technical data science and traditional financial analysis. I am currently pursuing a **CPA designation** to combine deep accounting expertise with scalable, data-driven workflows.
+I am a final-year student at the University of Waterloo completing my degree in **April 2026** with a focus on **Mathematics** and **Finance**. My goal is to bridge the gap between technical data science and traditional financial analysis. I plan to pursue a **CPA designation** to combine my accounting knowledge with scalable, data-driven workflows.
 
 ---
 
