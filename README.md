@@ -1,7 +1,7 @@
 # Financial Analytics & Process Optimization Portfolio
 
 ## Professional Profile
-I am a final-year student at the University of Waterloo completing my degree in **April 2026** with a focus on **Mathematics** and **Finance**. My goal is to bridge the gap between technical data science and traditional financial analysis. I plan to pursue a **CPA designation** to combine my accounting knowledge with scalable, data-driven workflows.
+I am a final-year student at the University of Waterloo completing my degree in **April 2026** with a focus on **Mathematics** and **Finance**. My goal is to bridge the gap between technical data science and traditional financial analysis.
 
 ---
 
@@ -25,10 +25,3 @@ Developed a predictive model to transition a reactive, manual dispute process in
 * **Data Querying:** Advanced SQL (CTEs, Window Functions, Complex Joins).
 * **Financial Analysis:** Loss mitigation, recovery rate optimization, and ROI tracking.
 * **Tools:** GitHub, Payment Processor APIs (Stripe/Adyen), and data visualization.
-
----
-
-## Contact & Professional Goals
-I am passionate about applying technical efficiencies to corporate finance challenges.
-* **Location:** Toronto, ON.
-* **Availability:** Seeking full-time opportunities starting May 2026.
